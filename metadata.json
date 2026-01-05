@@ -1,0 +1,5 @@
+{
+  "name": "Smart CRM Calendar Viewer",
+  "description": "A professional CRM-style dashboard for viewing multiple Google Calendars with integrated Gemini AI scheduling assistance.",
+  "requestFramePermissions": []
+}
