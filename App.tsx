@@ -8,6 +8,7 @@ const App: React.FC = () => {
     { id: 'adi', name: 'עדי דניאל', src: 'adi1311daniel@gmail.com', color: '#f6bf26', active: true },
     { id: 'arzit', name: 'ארזית נחום', src: 'arzit.nahum@gmail.com', color: '#d50000', active: true },
     { id: 'merav', name: 'מרב', src: 'merava73@gmail.com', color: '#0b8043', active: true },
+     { id: 'Sharon', name: 'שרון', src: 'Sharon.nipravsky@gmail.com', color: '#0b8052', active: true },
     { id: 'holidays', name: 'חגי ישראל', src: 'iw.jewish#holiday@group.v.calendar.google.com', color: '#0b8043', active: false },
   ]);
 
